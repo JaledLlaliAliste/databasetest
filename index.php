@@ -1,6 +1,6 @@
 <?php
 // Replace the placeholders with your MySQL database information
-$servername = "10.96.173.180";
+$servername = "10.100.182.39";
 $username = "root";
 $password = "root";
 $dbname = "mysql";
